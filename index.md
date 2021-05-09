@@ -1,8 +1,5 @@
-# Welcome to my blog
-
 I'm glad you are here. I plan to talk about ...
 
-## purin
-caramel
-## zeri
-peach and grape
+## awesome title
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
