@@ -20,7 +20,7 @@ Wordpress  /  PhotoShop  /  Figma　　　
 
 <details><summary>See the project picture</summary>
 design / coding / release / logo <br> 
-<img src="https://github.com/purin-time/github-pages-with-jekyll/blob/master/image/Top-down-view-of-iPhone-6.jpg" width="500px">   
+<img src="/image/Top-down-view-of-iPhone-6.jpg" width="500px">   
 </details>
 
 #### ・building a E-commerce site / Accessory shop
