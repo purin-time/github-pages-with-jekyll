@@ -1,4 +1,4 @@
-# Welcome to my Portfolio Page
+Welcome to my Portfolio Page
 
 I'm glad you are here. I plan to talk about ...
 
