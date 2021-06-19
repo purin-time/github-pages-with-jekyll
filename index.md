@@ -1,7 +1,5 @@
 Welcome to my Portfolio Page
 
-I'm glad you are here. I plan to talk about ...
-
 ## Hi! I'm Sayaka, a Web Developer based in Japan.
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
@@ -26,11 +24,11 @@ design / coding / release / logo <br>
 #### ・building a E-commerce site / Accessory shop
 
 <details><summary>See the project picture</summary>
-<img src="https://github.com/purin-time/github-pages-with-jekyll/blob/master/image/couronne.shopselect.net_items_34004677(iPhone%20X).png" width="200px">
+<img src="/image/couronne.shopselect.net_items_34004677(iPhone%20X).png" width="200px">
 </details>
 
 #### ・building a Wordpress shop
 
 <details><summary>See the project picture</summary>
-<img src="https://github.com/purin-time/github-pages-with-jekyll/blob/master/image/img.png" width="500px">
+<img src="/image/img.png" width="500px">
 </details>
