@@ -14,7 +14,7 @@ Wordpress  /  PhotoShop  /  Figma　　　
 
 ## My projects
 
-#### ・building a Simple Shop Page - [view demo](https://purin-time.github.io/responsive-grid-view/)
+#### ・building a Simple Shop Page - [view demo](https://dm1.caramelcustard.net/)
 
 <details style="margin-bottom:10px;"><summary>See the project picture</summary>
 design / coding / release / logo <br> 
