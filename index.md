@@ -16,12 +16,11 @@ Wordpress  /  PhotoShop  /  Figma　　　
 
 ## My projects
 
-#### ・building a Simple Shop Page
+#### ・building a Simple Shop Page - [view demo](https://purin-time.github.io/responsive-grid-view/)
 
 <details><summary>See the project picture</summary>
-design / coding / release / logo <br>
-<img src="https://github.com/purin-time/github-pages-with-jekyll/blob/master/image/Top-down-view-of-iPhone-6.jpg" width="500px"><br>
-<a href="https://purin-time.github.io/responsive-grid-view/">viwe demo</a>
+design / coding / release / logo <br> 
+<img src="https://github.com/purin-time/github-pages-with-jekyll/blob/master/image/Top-down-view-of-iPhone-6.jpg" width="500px">   
 </details>
 
 #### ・building a E-commerce site / Accessory shop
