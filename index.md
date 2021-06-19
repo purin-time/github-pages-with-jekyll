@@ -2,13 +2,13 @@ Welcome to my Portfolio Page
 
 ## Hi! I'm Sayaka, a Web Developer based in Japan.
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+Web Developer with fundamental knowledge of design, development, and implementing applications, eager to acquire new knowledge in this field and enhance my development skills.
 
 ### SKILL SET
 
 HTML  /  CSS  /  JavaScript  /  SASS  /  Bootstrap　   
 PHP  /  Git  /  Github  /  Laravel  /  Terminal　   
-Wordpress  /  PhotoShop  /  Figma　　　
+Node.js  /  Wordpress  /  PhotoShop  /  Figma　　　
 
 
 
