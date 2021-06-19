@@ -23,12 +23,12 @@ design / coding / release / logo <br>
 
 ### ・building a E-commerce site / Accessory shop
 
-<details><summary>See the project picture</summary>
+<details style="margin-bottom:10px;"><summary>See the project picture</summary>
 <img src="/image/couronne.shopselect.net_items_34004677(iPhone%20X).png" width="200px">
 </details>
 
 ### ・building a Wordpress shop
 
-<details><summary>See the project picture</summary>
+<details style="margin-bottom:10px;"><summary>See the project picture</summary>
 <img src="/image/img.png" width="500px">
 </details>
