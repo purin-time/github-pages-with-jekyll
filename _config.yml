@@ -4,7 +4,6 @@ author: Sayaka
 # email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Frontend Engineer. Wordpress　
-  趣味はヨガ、カメラ、読書
 
 # social links
 twitter_username: fujisawa_sayaka # DO NOT include the @ character, or else the build will fail!
