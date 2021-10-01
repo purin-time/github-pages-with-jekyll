@@ -19,7 +19,7 @@ Node.js / Wordpress / PhotoShop / Figma　　
 
 |  Shop Page  |  task app  |
 | ---- | ---- |
-|  <img src="/image/portfolio1.jpg" width="430px">   |  <img src="image/portfolio2.png" width="430px">   |
+|  <img src="../image/portfolio1.jpg" width="430px">   |  <img src="../image/portfolio2.png" width="430px">   |
 |  [view demo](https://dm1.caramelcustard.net/)  |  [moving image - twitter@saya](https://twitter.com/fujisawa_sayaka/status/1410798040206643210)  |
 
 
