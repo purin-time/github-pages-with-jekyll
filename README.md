@@ -1,1 +1,1 @@
-My portfolio page and writings about web development tips.
+My Portfolio Page and Writings about Web Development tips.
