@@ -23,4 +23,4 @@ Node.js / Wordpress / PhotoShop / Figma　　
 |  HTML/HTML5/CSS/CSS3/JavaScript  |  Laravel/PHP  |
 
 
-
+  [支援をしてあげる](https://buy.stripe.com/7sI4gj0043S15vqbII)
