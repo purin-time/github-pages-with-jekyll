@@ -20,7 +20,11 @@ Node.js / Wordpress / PhotoShop / Figma　　
 |  Shop Page  |  task app  |
 | ---- | ---- |
 |  <img src="../image/portfolio1.jpg" width="430px">   |  <img src="../image/portfolio2.png" width="430px">   |
-|  HTML/HTML5/CSS/CSS3/JavaScript  |  Laravel/PHP  |
+|  HTML/HTML5/CSS/CSS3/JavaScript  |  Laravel/PHP  |   
 
+|  Web safe colors  |
+| ---- |
+|  <img src="../image/color.png" width="430px">   |
+|  [url](https://purin-time.github.io/web_safe_colors/)  |
 
 <!--   [支援をしてあげる](https://buy.stripe.com/7sI4gj0043S15vqbII) -->
