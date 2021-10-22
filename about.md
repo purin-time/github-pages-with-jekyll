@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## Hi I'm Sayaka, a Web developer based in Japan.
+## I'm Sayaka Fujisawa, a Web developer based in Japan.
 
 Web Developer with fundamental knowledge of design, development, and implementing applications, eager to acquire new knowledge in this field and enhance my development skills.
 
