@@ -10,9 +10,9 @@ Web Developer with fundamental knowledge of design, development, and implementin
 
 ### SKILL SET
 
-HTML / CSS / JavaScript / SASS / Bootstrap   
-PHP / Git / Github / Laravel / Terminal　   
-Node.js / Wordpress / PhotoShop / Figma　　   
+JavaScript / SCSS / vue.js / Node.js   
+PHP / Laravel / WordPress / Git / Terminal   
+SQL / Python / PhotoShop / Figma　　   
 
 
 ## My projects
