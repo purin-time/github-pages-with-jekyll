@@ -3,8 +3,8 @@ google_analytics: G-WG2EHPF7NP
 title: BLOG
 # author: anonymous
 # email: your-email@domain.com
-# description: > # this means to ignore newlines until "baseurl:"
-  tech blog   
+description: > # this means to ignore newlines until "baseurl:"
+  hobby programmer   
 
 # social links
 # twitter_username: fujisawa_sayaka # DO NOT include the @ character, or else the build will fail!
