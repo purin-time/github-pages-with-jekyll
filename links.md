@@ -7,8 +7,8 @@ title: "🤍"
 *purin_time*
    
 {: align="center"}
-[技術メモ](URL "https://www.caramelcustard.net/")   
+[技術メモ](URL "https://www.caramelcustard.net/")
 {: align="center"}
-[github](URL "https://github.com/purin-time")   
+[github](URL "https://github.com/purin-time")
 {: align="center"}
-[tumblr](URL "https://lovelyuniquecollector.tumblr.com/")   
+[tumblr](URL "https://lovelyuniquecollector.tumblr.com/")
