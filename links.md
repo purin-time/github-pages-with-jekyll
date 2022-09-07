@@ -1,5 +1,5 @@
 ---
-title: "links"
+title: "🤍"
 ---
 
 {: align="center"}
@@ -7,6 +7,8 @@ title: "links"
 *purin_time*
 
 {: align="center"}
-[技術メモ](URL "https://www.caramelcustard.net/")
-[github](URL "https://github.com/purin-time")
+[技術メモ](URL "https://www.caramelcustard.net/")   
+{: align="center"}
+[github](URL "https://github.com/purin-time")   
+{: align="center"}
 [tumblr](URL "https://lovelyuniquecollector.tumblr.com/")
